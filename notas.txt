@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dfcvghj
+=======
+teste clone 1
+>>>>>>> 8301d92 (teste clone 1)
